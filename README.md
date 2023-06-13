@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikramdamaruppula
 - 👀 I’m interested in ... exploring new technologies
-- 🌱 I’m currently learning ...Fullstack development course at Nxt Wave online platform 
+- 🌱 I’m currently Working as a React Developer at securrahealth technologies pvtLtd ..
 - 💞️ I’m familiar with...technologies like HTML,CSS,JAVASCRIPT,Python,Nodejs,Expresjs,MySql And ReactJs
 - 📫 How to reach me ... mailId: vikramd0652@gmail.com  linkedin:[linkedin.com/in/vikramd369](https://www.linkedin.com/in/vikramd369)
 
